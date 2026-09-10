@@ -38,3 +38,4 @@ pub fn run() {
         println!("Доступные: new, list, delete, note");
     }
 }
+

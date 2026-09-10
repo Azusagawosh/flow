@@ -1,5 +1,8 @@
 # Flow — CLI Project Manager
 
+[![Rust](https://img.shields.io/badge/Rust-2024_Edition-orange?logo=rust)](https://www.rust-lang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Инструмент управления проектами из терминала, написанный на Rust.
 
 ## Особенности
